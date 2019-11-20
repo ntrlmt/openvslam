@@ -4,8 +4,16 @@
    contain the root `toctree` directive.
 
 .. image:: ./img/logo.png
-    :height: 150px
+    :width: 435px
     :align: center
+
+|
+
+.. raw:: html
+
+    <div style="position: relative; padding-bottom: 56.25%;">
+    <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/Ro_s3Lbx5ms" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
 
 |
 
