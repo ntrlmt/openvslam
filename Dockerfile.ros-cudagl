@@ -37,7 +37,9 @@ RUN set -x && \
     libavresample-dev && \
   : "Pangolin dependencies" && \
   apt-get install -y -qq \
-    libglew-dev && \
+    libglew-dev \
+    libcanberra-gtk-module \
+    libcanberra-gtk3-module && \
   : "other dependencies" && \
   apt-get install -y -qq \
     libyaml-cpp-dev && \
